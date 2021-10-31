@@ -9,9 +9,11 @@ screen gameUI:
         
 screen phoneUI:
     add "UI/bg phone.png"
-    #frame:
-        #xalign 0.5
-        #yalign 0.5
+    
+    frame:
+        xalign 0.4
+        yalign 0.5
+        text "UNDER CONSTRUCTION :("
         #xpadding 10
         #ypadding 10
         
